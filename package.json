@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bsiddiqui/bookshelf-modelbase",
   "dependencies": {
-    "checkit": "0.7.0",
+    "checkit": "github:fring/checkit",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
